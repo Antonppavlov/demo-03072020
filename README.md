@@ -21,5 +21,4 @@ test - запуск тестов
 allure:serve - запуск allure отчетов
 ```
 
-
-https://docs.google.com/presentation/d/1iJpKvIrCbOH-ZPTIELiQHNq9Gjt7eRKVjRSGMbroB-Q/edit#slide=id.g8b177a017c_0_26
+git@gitpct.epam.com:vtbr-tbr2/vtb-online-at.git
